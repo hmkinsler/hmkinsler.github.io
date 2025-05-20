@@ -1,7 +1,7 @@
 ---
 title: "Early Childhood Education"
 collection: teaching
-type: #
+type: "Early Childhood Educator"
 permalink: /teaching/early-childhood
 venue: "Kiddie Academy of West Cary"
 date: 2019-01-01
