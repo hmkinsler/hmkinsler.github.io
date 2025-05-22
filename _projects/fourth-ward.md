@@ -1,7 +1,7 @@
 ---
 title: "Fourth Ward Oral History Project"
 excerpt: "Learn about my work as an oral historian and activist with the Fourth Ward Historic Neighborhood Association<br/><img src='/images/research/neighborhood-association.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 In 2023, the Fourth Ward Oral History Project was started by myself and Brody McCurdy (PhD Student in CRDM, North Carolina State University) as part of a partnership between Raleigh activists, historians, and members of the Fourth Ward Historic Neighborhood Association.
