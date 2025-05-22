@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Haley Kinsler"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Haley Kinsler"
+description              : &description "PhD Student in Communication, Rhetoric, & Digital Media Studies at North Carolina State University"
 url                      : https://hmkinsler.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hmkinsler/hmkinsler.github.io"
@@ -22,7 +22,7 @@ repository               : "hmkinsler/hmkinsler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/research/museum-pic.jpg"
+  avatar           : "museum-pic.jpg"
   name             : "Haley Kinsler"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Communications, Rhetoric, & Digital Media"
@@ -266,10 +266,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
