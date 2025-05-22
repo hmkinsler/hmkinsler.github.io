@@ -263,15 +263,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  #_photography
-  - scope:
-        path: ""
-        type: photography
-    values:
-        layout: default
-        author_profile: true
-        share: true
-        comment: true
 
 # Sass/SCSS
 sass:
