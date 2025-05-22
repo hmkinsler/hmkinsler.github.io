@@ -1,11 +1,14 @@
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+---
+layout: archive
+title: "Photography
+permalink: /Photography
+author_profile: true
+---
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+{% include base_path %}
 
-</body>
-</html>
+
+{% for post in site.photography
+  {% include archive-single.html %}
+{% endfor %}
+
