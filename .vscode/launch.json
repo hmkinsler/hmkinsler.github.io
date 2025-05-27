@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open testspace.html",
-            "file": "e:\\vscodeprojects\\hmkinsler.github.io\\testspace.html"
+            "file": "f:\\vscodeprojects\\hmkinsler.github.io\\testspace.html"
         }
     ]
 }
