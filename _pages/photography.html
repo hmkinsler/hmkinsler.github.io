@@ -4,11 +4,14 @@ title: "Photography"
 permalink: /photography/
 author_profile: true
 ---
-
 <head>
 <style>
+
 div.gallery {
-  border: 1px solid #ccc;
+	display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: minmax(50px, auto);
+    grid-gap: 20px;
 }
 
 div.gallery:hover {
@@ -17,7 +20,7 @@ div.gallery:hover {
 
 div.gallery img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 div.desc {
@@ -29,80 +32,36 @@ div.desc {
   box-sizing: border-box;
 }
 
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
 
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 </style>
 </head>
 
 <body>
 
-<h2>Responsive Image Gallery</h2>
-
-<h4>Resize the browser window to see the effect.</h4>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="/images/photography/jcraulston_arboretum_1.jpg" alt="Cinque Terre" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="/images/photography/ocracoke_2024_1.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="/images/photography/ocracoke_2024_2.jpg" alt="Northern Lights" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="/images/photography/ocracoke_2024_3.jpg" alt="Mountains" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div style="padding:6px;">
-  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
+<div class="gallery">
+    <a><img src="images/photography/2024_eclipse_1.jpg" alt=""></a>
+    <a><img src="images/photography/jcraulston_arboretum_1.jpg" alt="""></a>
+    <a><img src="images/photography/nc_zoo_1.jpg" alt=""></a>
+    <a><img src="images/photography/nc_zoo_2.jpg" alt=""></a>
+    <a><img src="images/photography/nc_zoo_3.jpg" alt=""></a>
+    <a><img src="images/photography/nc_zoo_4.jpg" alt=""></a>
+    <a><img src="images/photography/ncma_1.jpg" alt=""></a>
+    <a><img src="images/photography/ncma_2.jpg" alt=""></a>
+    <a><img src="images/photography/ncma_3.jpg" alt=""></a>
+    <a><img src="images/photography/ocracoke_2024_1.jpg" alt=""></a>
+    <a><img src="images/photography/ocracoke_2024_2.jpg" alt=""></a>
+    <a><img src="images/photography/ocracoke_2024_3.jpg" alt=""></a>
+    <a><img src="images/photography/ocracoke_2024_4.jpg" alt=""></a>
+    <a><img src="images/photography/ocracoke_2024_5.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_1.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_2.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_3.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_4.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_5.jpg" alt=""></a>
+    <a><img src="images/photography/panther_lake_6.jpg" alt=""></a>
+    <a><img src="images/photography/raven_rock.jpg" alt=""></a>
+    <a><img src="images/photography/unc_botanical_garden.jpg" alt=""></a>
+    <a><img src="images/photography/western_nc.jpg" alt=""></a>
 </div>
 
 </body>

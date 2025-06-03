@@ -89,7 +89,7 @@ _Community Leader -- Raleigh, North Carolina_
 **Linguistic Diversity Ambassadors** (Aug 2022 - Present)
 _Student Organization Member, North Carolina State University_
 * Participated in annual tabling at the North Carolina State Fair in an effort to provide public educational materials on linguistic diversity
-* Organized outreach tabling in partnership with the North Carolina Trans and Nonbinay Language Project
+* Organized outreach tabling in partnership with the North Carolina Trans and Nonbinary Language Project
 * Led workshops for students and faculty on linguistic diversity and dialect education
 
 **Linguistic Brown Bag Speaker Series** (Aug 2023 - Dec 2024)
