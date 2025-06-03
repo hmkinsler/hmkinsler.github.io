@@ -18,8 +18,8 @@ main:
   - title: "Research"
     url: /research/
         
-  - title: "CV"
-    url: /cv/
-
   - title: "Photography"
     url: /photography/
+
+  - title: "CV"
+    url: /cv/
