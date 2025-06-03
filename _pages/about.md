@@ -13,6 +13,6 @@ I have co-founded two research projects, including the North Carolina Trans and 
 
 When I am not studying, teaching, or tinkering around on campus, I can often be found working on a car, taking photos at a local garden or arboretum, cooking with my partner, or reading with my wonderful tabby, Clover. I enjoy the DIY ethos that comes with many of my hobbies, and if it sounds like I can get myself elbow deep into an engine bay or play around with some code, I am all in.
 
-![Haley and their partner, Jon, are pictured standing in front of a balloon display designed with the colors of the trans pride flag at Durham Pride in 2024.](/images/research/durham-pride-2.jpg)
-![Haley and their cat, Clover, are pictured together. Clover is wrapped inside Haley's jacket and Haley is laughing.](/images/research/clover.jpg)
-![Haley in standing in front of their Camry holding up an alternator they have taken out of the car. Various tool sets can be seen on the ground beside them.](/images/research/car-repair.jpg)
+![Haley and their partner, Jon, are pictured standing in front of a balloon display designed with the colors of the trans pride flag at Durham Pride in 2024.](/images/about_me/durham-pride-2.jpg)
+![Haley and their cat, Clover, are pictured together. Clover is wrapped inside Haley's jacket and Haley is laughing.](/images/about_me/clover.jpg)
+![Haley in standing in front of their Camry holding up an alternator they have taken out of the car. Various tool sets can be seen on the ground beside them.](/images/about_me/car-repair.jpg)
