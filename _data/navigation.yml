@@ -4,13 +4,6 @@ main:
     url: /about/
   - title: "Research Projects"
     url: /research/
-    sublinks:
-      - title: "Fourth Ward"
-        url: /fourthward/
-      - title: "DIY Book Scanner"
-        url: /diyscanner/
-      - title: "NC Trans & Nonbinary Language Project"
-        url: /nctnbp/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
