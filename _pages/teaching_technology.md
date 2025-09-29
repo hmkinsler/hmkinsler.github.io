@@ -21,7 +21,7 @@ This singular case encompasses a broader perspective of mine on the importance o
 
 [INCLUDE VIDEO USING EXCALIDRAW TO MODEL FEEDBACK AND REVISION] 
 
-{% include video id="uOxus3oCdRM&t=596s" provider="youtube" %}
+{% include video id="uOxus3oCdRM?start=596" provider="youtube" %} 
 
 Such digital literacies are particular important with the rise of machine learning and generative-AI, in particular.
 
