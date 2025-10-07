@@ -16,6 +16,8 @@ Portfolio Materials
 =====
 <a href="https://drive.google.com/file/d/15t-Xt5FB2DqJy2Gx5j3WyLfM82FkoiDw/view?usp=sharingm" class="btn btn--primary">Philosophy of Teaching Statement</a>
 
+<a href="edtech" class="btn btn--primary">Statement on Teaching with Technology</a>
+
 <a href="https://drive.google.com/file/d/12WslFW5_MxEKRPpaYkSIOKCFd0tSUMPT/view?usp=sharing" class="btn btn--primary">Peer Teaching Observation</a>
 
 Student Evaluations
